@@ -10,5 +10,3 @@ This application is structured as a competitive backend for an e-commerce site.
 A user can initiate this application by running npm install after cloning the repo. After all dependencies run 'npm start' to start the server.
 
 ## Walk-through
-
-nv,mv,mmn
